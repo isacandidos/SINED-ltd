@@ -24,7 +24,6 @@ header {
     z-index: 100;
     border-bottom-right-radius: 18px;
     border-bottom-left-radius: 18px;
-    margin-top: px;
     margin-bottom: 10px;
 }
 
@@ -39,7 +38,7 @@ header {
     font-size: 21px;
     text-decoration: none;
     color: #FFE5E5; 
-    padding: 0 30px;
+    padding: 0 20px;
     cursor: pointer;
     background-color: #003459;
 }
@@ -239,7 +238,7 @@ footer {
   width: auto;
   height: 35px;
   display: block;
-  margin-left: 400px;
+  margin-left: 380px;
   border-radius: 20px;
   margin-top: 10px;
 }
