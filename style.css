@@ -230,15 +230,7 @@ footer {
   margin-left: 25px;
   margin-top: -26px;
 }
-.wpp{
-  
-  background-color: #095083;
-  cursor: pointer;
-  text-decoration: none;
-  color: #FFE5E5;
-  padding: 5px;
-  border-radius: 10px;
-}
+
 .wpp:hover{
   background: #8ea2be;
 }
